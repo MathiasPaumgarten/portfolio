@@ -18,7 +18,7 @@
     "lodash": "^4.17.19",
     "normalize-wheel": "^1.0.1",
     "rxjs": "^6.5.5",
-    "three": "^0.110.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@roboshoes/eslint-config": "^1.1.0",
